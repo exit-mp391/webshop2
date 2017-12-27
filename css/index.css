@@ -1,0 +1,89 @@
+
+button {
+  cursor: pointer;
+}
+
+.btn {
+  margin: 0 4px;
+}
+
+.card .price {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+
+.card .card-body .card-link {
+  margin-left: 0;
+}
+
+.card .card-img-top {
+  object-fit: contain;
+  height: 150px;
+}
+
+.nav-item .dropdown {
+  cursor: pointer;
+}
+
+/* .bg-dark {
+  background-color: #343a40 !important;
+} */
+
+.footer {
+  padding: 16px;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.old-image {
+  max-height: 175px;
+}
+
+.comment {
+  margin: 8px 0;
+}
+
+.comment .comment-info {
+  font-size: .8rem;
+  text-transform: uppercase;
+}
+
+.add-comment-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.add-comment-form .comment-inpt {
+  flex: 1;
+}
+
+.add-comment-form .comment-btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 8px 0;
+}
+
+.add-comment-form .comment-btn .btn {
+  margin-right: 0;
+}
+
+.add-comment-form .comment-inpt .form-group {
+  margin: 0;
+}
+
+.pgnt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
